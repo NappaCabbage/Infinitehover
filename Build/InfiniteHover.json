@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "InfiniteHover.data.unityweb",
+"asmCodeUrl": "InfiniteHover.asm.code.unityweb",
+"asmMemoryUrl": "InfiniteHover.asm.memory.unityweb",
+"asmFrameworkUrl": "InfiniteHover.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
